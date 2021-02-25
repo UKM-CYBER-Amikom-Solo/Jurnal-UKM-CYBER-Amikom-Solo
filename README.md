@@ -1,4 +1,4 @@
-# PROKER-Tahunan-UKM-CYBER-Amikom-Solo
+# PROKER Tahunan UKM CYBER Amikom Solo
 # 2021
 # 2020
 # 2019
