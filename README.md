@@ -8,5 +8,9 @@ jika ingin usul silakan hubungi di link tersebut
   - 02-07 - Webinar Perkenalan Android untuk Pemula
   - 02-09 - Webinar Ethical Hacking
 # 2020
+  - 03 - Tour UKM
+  - 06 - Seminar
+  - 08 - Lomba
+  - 10 - Pengabdian Masyarakat
 # 2019
 # 2018
